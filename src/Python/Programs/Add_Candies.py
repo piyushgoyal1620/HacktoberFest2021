@@ -1,5 +1,3 @@
-# Name: Aniruddha Sil
-# Username: lawlesx
 
 # Problem From codeforces https://codeforces.com/contest/1447/problem/A
 
